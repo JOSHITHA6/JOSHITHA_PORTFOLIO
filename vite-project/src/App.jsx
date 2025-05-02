@@ -7,9 +7,15 @@ function App() {
 
   return (
     <>
-    <BrowserRouter></BrowserRouter>
+    <BrowserRouter>
+    <Routes>
+      <Route />
+      <Route />
+    </Routes>
+    
+    </BrowserRouter>
     </>
   );
 }
 
-export default App
+export default App;
