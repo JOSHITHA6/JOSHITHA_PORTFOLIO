@@ -91,7 +91,7 @@
     --border: 217 33% 20%;
   }
   *{
-    @apply boder-border;
+    @apply border-border;
   }
 
   html{
